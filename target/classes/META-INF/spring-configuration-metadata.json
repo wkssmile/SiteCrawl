@@ -1,0 +1,36 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.edmi.configs.TaskThreadPoolConfig",
+      "name": "spring.task.pool",
+      "type": "com.edmi.configs.TaskThreadPoolConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.edmi.configs.TaskThreadPoolConfig",
+      "defaultValue": 0,
+      "name": "spring.task.pool.core-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.edmi.configs.TaskThreadPoolConfig",
+      "defaultValue": 0,
+      "name": "spring.task.pool.keep-alive-seconds",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.edmi.configs.TaskThreadPoolConfig",
+      "defaultValue": 0,
+      "name": "spring.task.pool.max-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.edmi.configs.TaskThreadPoolConfig",
+      "defaultValue": 0,
+      "name": "spring.task.pool.queue-capacity",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
