@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebb5b0f4-f304-439f-a8c9-d996bf6d6b3a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SGM@210.22.183.72" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SGM@210.22.183.72" type="feb32156:DbDataSourceImpl" />
+        <item name="KoreaComment: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SGM@210.22.183.72" type="feb32156:DbDataSourceImpl" />
+        <item name="KoreaComment: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1834594580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="casperjs" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="27" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="2" />
+          <entry key="js-html" value="1" />
+          <entry key="korea_comments_target_brands" value="5" />
+          <entry key="sql" value="5" />
+          <entry key="txt" value="1" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Database Element" value="5" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="27" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Scratch" value="5" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4764" />
+          <entry key="sql" value="63" />
+          <entry key="txt" value="45" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4764" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="SQL" value="52" />
+          <entry key="Scratch" value="11" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1762872672">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/ManageApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/jobs/CrawlerTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="526" column="20" selection-start-line="526" selection-start-column="20" selection-end-line="526" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>heading</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/93278caf-c9ff-4e97-9b0f-5933e8ce65dc/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/entity/korea_comments/Korea_comments_target_brands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/dao/korea_comments/Korea_comments_target_brandsDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/edmi/KoreaCommentsCrawlerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/service/service/KoreaCommentsCrawlService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/code/Request_demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/code/Request_demoa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/DoJS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/js-html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/Request_demoa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/Casperjs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/Request_demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/edmi/service/serviceImp/KoreaCommentsCrawl/KoreaCommentsCrawlerImp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="manage" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="manage" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SiteCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteCrawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edmi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiteCrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiteCrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edmi" type="462c0819:PsiDirectoryNode" />
+              <item name="jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537944527173" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\task-crawler\KoreaCommentsCrawl\src\main\java\com\edmi\utils\casperjs" />
+      <recent name="D:\task-crawler\KoreaCommentsCrawl\src\main\java\com\edmi\utils\casperjs\casperjs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageApplication">
+    <configuration name="DoJS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edmi.utils.casperjs.DoJS" />
+      <module name="manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edmi.utils.casperjs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KoreaCommentsCrawlerImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edmi.service.serviceImp.KoreaCommentsCrawl.KoreaCommentsCrawlerImp" />
+      <module name="manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edmi.service.serviceImp.KoreaCommentsCrawl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Request_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edmi.utils.casperjs.Request_demo" />
+      <module name="manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edmi.utils.casperjs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KoreaCommentsCrawlerTest.getGmarketComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edmi" />
+      <option name="MAIN_CLASS_NAME" value="com.edmi.KoreaCommentsCrawlerTest" />
+      <option name="METHOD_NAME" value="getGmarketComment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edmi" />
+      <option name="MAIN_CLASS_NAME" value="com.edmi.KoreaCommentsCrawlerTest" />
+      <option name="METHOD_NAME" value="getTargetBrandsManager" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edmi.ManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ManageApplication" />
+      <item itemvalue="Application.Request_demo" />
+      <item itemvalue="JUnit.KoreaCommentsCrawlerTest.getTargetBrandsManager" />
+      <item itemvalue="Application.KoreaCommentsCrawlerImp" />
+      <item itemvalue="JUnit.KoreaCommentsCrawlerTest.getGmarketComment" />
+      <item itemvalue="Application.DoJS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KoreaCommentsCrawlerImp" />
+        <item itemvalue="Application.DoJS" />
+        <item itemvalue="JUnit.KoreaCommentsCrawlerTest.getGmarketComment" />
+        <item itemvalue="JUnit.KoreaCommentsCrawlerTest.getTargetBrandsManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebb5b0f4-f304-439f-a8c9-d996bf6d6b3a" name="Default Changelist" comment="" />
+      <created>1537175303612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537175303612</updated>
+      <workItem from="1537175312758" duration="27918000" />
+      <workItem from="1537325577798" duration="26572000" />
+      <workItem from="1537425258847" duration="856000" />
+      <workItem from="1537430133757" duration="17282000" />
+      <workItem from="1537516830361" duration="433000" />
+      <workItem from="1537940096857" duration="2713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 10h 31m 01s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 12h 15m 30s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 12h 16m 15s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 13h 14m 24s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 13h 49m 18s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 14h 03m 36s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getTargetBrandsManager - 2018.09.18 at 14h 23m 39s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getTargetBrandsManager" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getGmarketComment - 2018.09.18 at 15h 03m 11s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getGmarketComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KoreaCommentsCrawlerTest_getGmarketComment - 2018.09.18 at 18h 19m 46s.xml">
+      <configuration name="KoreaCommentsCrawlerTest.getGmarketComment" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75774000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991274" visible="true" weight="0.13373253" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499501" visible="true" weight="0.40927836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500499" side_tool="true" weight="0.49278352" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32984033" />
+      <window_info anchor="right" id="Database" order="6" weight="0.2979042" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.5008726" side_tool="true" weight="0.13273454" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/service/service/IcodropsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/service/service/IcoratingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="40" column="142" selection-start-line="40" selection-start-column="142" selection-end-line="40" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/93278caf-c9ff-4e97-9b0f-5933e8ce65dc/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/edmi/IcoratingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/93278caf-c9ff-4e97-9b0f-5933e8ce65dc/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/entity/korea_comments/Korea_comments_target_brands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/entity/icorating/ICO_icorating_list.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="47" column="53" lean-forward="true" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/dao/korea_comments/Korea_comments_target_brandsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/service/serviceImp/icorating/IcoratingServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11425">
+          <caret line="328" column="24" lean-forward="true" selection-start-line="328" selection-start-column="24" selection-end-line="328" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://93278caf-c9ff-4e97-9b0f-5933e8ce65dc/database/koreacomment/schema/dbo/table/korea_comments_target_brands" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/images/avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/casperjs/phantomjs/bin/1.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/casperjs/bin/casperjs" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/readMe.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/code/CasperArgs.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/code/Request_demoa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/code/Request_demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/code/Casperjs.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/js-html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="2445" column="82" lean-forward="true" selection-start-line="2445" selection-start-column="82" selection-end-line="2445" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/service/service/KoreaCommentsCrawlService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/edmi/KoreaCommentsCrawlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/DoJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/Request_demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/CasperArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/getpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/utils/casperjs/Casperjs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/service/serviceImp/KoreaCommentsCrawl/KoreaCommentsCrawlerImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="388" column="26" selection-start-line="388" selection-start-column="26" selection-end-line="388" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/service/serviceImp/coinschedule/CoinscheduleSeviceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="269" column="64" selection-start-line="269" selection-start-column="27" selection-end-line="269" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/jobs/CrawlerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="526" column="20" selection-start-line="526" selection-start-column="20" selection-end-line="526" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/edmi/ManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
