@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.edmi.dao.korea_comments.Korea_comments_target_brandsDao;
 import com.edmi.entity.korea_comments.Korea_comments_target_brands;
 import com.edmi.service.service.KoreaCommentsCrawlService;
-import com.edmi.utils.casperjs.Request_demo;
+import com.edmi.utils.casperjs.CasperJsRequest;
 import com.edmi.utils.http.HttpClientUtil;
 import com.edmi.utils.http.request.Request;
 import com.edmi.utils.http.request.RequestMethod;
@@ -385,7 +385,7 @@ public class KoreaCommentsCrawlerImp implements KoreaCommentsCrawlService {
         //http://deal.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=934901081
         String url = "http://global.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=934901081";
 //        k.get11stCommentDetail(url);
-        String content = Request_demo.getJsContent(url);
+        String content = CasperJsRequest.getJsContent(url);
         log.info(content);
     }
 

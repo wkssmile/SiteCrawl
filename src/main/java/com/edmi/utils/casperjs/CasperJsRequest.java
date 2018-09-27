@@ -2,7 +2,7 @@ package com.edmi.utils.casperjs;
 
 import java.io.IOException;
 
-public class Request_demo {
+public class CasperJsRequest {
     public static String getJsContent(String url) {
         long start = System.currentTimeMillis();
         CasperArgs arg = new CasperArgs();
